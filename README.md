@@ -1,2 +1,2 @@
-# PistonDupe
+# placeHolder
 A simple dupe plugin
